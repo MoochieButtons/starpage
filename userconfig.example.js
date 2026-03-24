@@ -19,8 +19,8 @@ const default_configuration = {
   },
   additionalClocks: [
     {
-      label: "UA",
-      timezone: "Europe/Kyiv",
+      label: "NL",
+      timezone: "Europe/Enschede",
       format: "h:i",
       icon_color: palette.peach,
     },
@@ -47,11 +47,11 @@ const default_configuration = {
       background_url: "src/img/banners/banner_09.gif",
       categories: [
         {
-          name: "bookmarks",
+          name: "Oft Used",
           links: [
             {
-              name: "raindrop",
-              url: "https://app.raindrop.io",
+              name: "Youtube",
+              url: "https://www.youtube.com",
               icon: "droplet-bolt",
               icon_color: palette.green,
             },
